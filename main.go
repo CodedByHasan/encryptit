@@ -2,8 +2,8 @@ package main
 
 import (
     "fmt"
-    "github.com/codedByHasan/encryptit/decrypt"
-    "github.com/codedByHasan/encryptit/encrypt"
+    "github.com/CodedByHasan/encryptit/decrypt"
+    "github.com/CodedByHasan/encryptit/encrypt"
 )
 
 func main() {
